@@ -1,0 +1,139 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+body{
+    font-family: 'Outfit', sans-serif;
+}
+.list{
+    display: flex;
+    margin: 0;
+}
+.list_item{
+    padding-left: 20px;
+}
+.list_item a{
+    text-decoration: none;
+    color: #222222;
+}
+.fa-brands{
+    margin-left: 15px;
+}
+.butonfirst{
+    padding: 11px 15px;
+    background: #2F2F2F;
+    border-radius: 20px;
+    font-weight: 400;
+    font-size: 13px;
+    text-align: center;
+    letter-spacing: 0.48px;
+    color: #FFFFFF;
+    margin-left: 45px;
+}
+nav{
+    margin-top: 30px;
+}
+.flex{
+    display: flex;
+    align-items: center;
+}
+.nft{
+    margin-top: 240px;
+    font-weight: 400;
+    font-size: 13px;
+    letter-spacing: 0.48px;
+    color: #82CBAC;
+    margin-bottom: 1px;
+}
+.change{
+    font-weight: 600;
+    font-size: 64px;
+    letter-spacing: 0.48px;
+    color: #2F2F2F;
+    margin-bottom: 25px;
+}
+.suspend{
+    font-weight: 400;
+    font-size: 17px;
+    letter-spacing: 0.48px;
+    color: #2F2F2F;
+}
+.positionimage{
+    margin-top: 113px;
+    position: relative;
+
+}
+.pink_img{
+     position: absolute;
+   left: 170px;
+    top: 110px;
+}
+.yellow{
+    
+    top: -100px;
+}
+.amal{
+    top: 15px;
+    left: -18px;
+    /* position: absolute; */
+}
+.small_image1{
+    width: 105px;
+    height: 33px;
+    align-items: center;
+    top: 20px;
+    left: -30px;
+    position: absolute;
+    background: rgba(255, 255, 255, 0.85);
+    border: none;
+    border-radius: 30px;
+    display: flex;
+}
+.lee{
+    margin-left: 5px;
+}
+.small_image2{
+    left: 100px;
+    top: 450px;
+    width: 159px;
+    height: 55px;
+    align-items: center;
+    position: absolute;
+    background: rgba(255, 255, 255, 0.85);
+    box-shadow: 0px -4px 19px rgba(0, 0, 0, 0.03);
+    border-radius: 30px;
+    border: none;
+    display: flex;
+}
+.lees{
+    margin-left: 12px;
+}
+.section1{
+    margin-top: 322px;
+    margin-bottom: 128px;
+}
+.qator1{
+    margin-left: -4px;
+}
+.hey{
+
+    margin-top: 128px;
+    font-weight: 500;
+    font-size: 55px;
+    text-align: center;
+    letter-spacing: 0.48px;
+    color: #2F2F2F;
+}
+.sem{
+    margin-top: 25px;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 26px;
+    text-align: center;
+    letter-spacing: 0.48px;
+    color: #2F2F2F;
+}
+
+   
