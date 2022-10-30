@@ -135,5 +135,189 @@ nav{
     letter-spacing: 0.48px;
     color: #2F2F2F;
 }
+#qora{
+    background: #2F2F2F;
+    border: 1px solid #2F2F2F;
+    border-radius: 30px;
+    width: 179px;
+    height: 50px;
+}
+.jack{
+    /* padding: 11px 66px 17px 65px; */
+    font-weight: 400;
+    font-size: 22px;
+    text-align: center;
+    letter-spacing: 0.48px;
+    color: #FFFFFF;
+}
+.btn2{
+    padding-top: 5px;
+    margin-top: 72px;
+    margin-bottom: 64px;
+    margin-left: 8px;
+    border: 1px solid #2F2F2F;
+    border-radius: 30px;
+    width: 179px;
+    height: 50px;
+}
+.suni{
+    font-weight: 400;
+    font-size: 22px;
+    text-align: center;
+    letter-spacing: 0.48px;
+    color: #2F2F2F;
+}
+.digital{
+    margin-top: 70px;
+    margin-bottom: 14px;
+    font-weight: 400;
+    font-size: 16px;
+    letter-spacing: 0.48px;
+    color: #FF7F96;
+}
+.blandit{
+    font-weight: 500;
+    font-size: 45px;
+    line-height: 45px;
+    letter-spacing: 0.48px;
+    color: #2F2F2F;
+    margin-bottom: 21px;
+}
+.big_text{
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 26px;
+    letter-spacing: 0.48px;
+    color: #2F2F2F;
+}
+.rasom_div{
+    margin-left: 50px;
+    margin-bottom: 146px;
+}
+.our{
+    margin-left: 63px;
+    font-weight: 400;
+    font-size: 37px;
+    letter-spacing: 0.48px;
+    text-transform: uppercase;
+    color: #2F2F2F;
+    margin-bottom: 7px;
+}
+.um{
+    margin-left: 63px;
+    font-weight: 400;
+    font-size: 57px;
+    line-height: 57px;
+    letter-spacing: 0.48px;
+    color: #2F2F2F;
+    margin-bottom: 38px;
+}
+.nulla{
+    margin-left: 63px;
+    font-weight: 500;
+    font-size: 19px;
+    line-height: 26px;
+    letter-spacing: 0.48px;
+    color: #2F2F2F;
+}
+.btn3{
+    margin-top: 32px;
+    margin-left: 450px;
+    background: #2F2F2F;
+    border-radius: 0px;
+    width: 166px;
+    height: 44px;
+}
+.about{
+    padding-top: 5px;
+    font-weight: 700;
+    font-size: 15px;
+    text-align: center;
+    letter-spacing: 0.48px;
+    color: #FFFFFF;
+}
+.nol1{
+    padding-top: 5px;
+    margin-top: 148px;
+    background: #82CBAC;
+    border-radius: 30px;
+    border: none;
+    width: 57px;
+    height: 35px;
+    margin-bottom: 5px;
+}
+.motion{
+    font-weight: 900;
+    font-size: 40px;
+    letter-spacing: 0.48px;
+    color: #2F2F2F;
+}
+.small_text{
+    font-weight: 400;
+    font-size: 20px;
+    line-height:30px;
+    letter-spacing: 0.50px;
+    color: #2F2F2F;
+}
+.nol2{
+    padding-top: 5px;
+    margin-top: 148px;
+    border-radius: 30px;
+    border: none;
+    width: 57px;
+    height: 35px;
+    margin-bottom: 5px;
+    background: #FF7F96;
+}
+.qator2{
+    margin-left: 84px;
+    margin-top: -140px ;
+}
+#nol3{
+    background: #EAD71B;
+}
+.toy{
+    margin-bottom: 141px;
+    margin-top: 84px;
+    margin-left: 80px;
+}
+.qator{
+    margin-left: 84px;
+}
+.yashil{
+    background: #82CBAC;
+}
+.browse{
+    margin-left: 10px;
+    font-weight: 400;
+    font-size: 63px;
+    text-align: center;
+    letter-spacing: 0.48px;
+    color: #2F2F2F;
+    margin-bottom: 73px;
+}
+.card{
+    margin-right: 63px;
+    text-align: start;
+    border-radius: 30px;
+    border: none;
+    margin-bottom: 64px;
+}
+.card-text{
+    padding-top: 15px;
+    padding-left: 30px;
+    font-weight: 700;
+    font-size: 29px;
+    letter-spacing: 0.48px;
+    color: #2F2F2F;
+}
+#btn4{
+    margin-left: 0;
+    width: 134px;
+    height: 44px;
+    margin-bottom: 95px;
+}
+
+    
 
    
