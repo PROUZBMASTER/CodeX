@@ -297,6 +297,8 @@ nav{
     margin-bottom: 73px;
 }
 .card{
+    width: 358px;
+    height: 313px;
     margin-right: 63px;
     text-align: start;
     border-radius: 30px;
@@ -316,8 +318,72 @@ nav{
     width: 134px;
     height: 44px;
     margin-bottom: 95px;
+    border: none;
+    padding-top: 5px;
 }
+.top{
+    font-weight: 400;
+    font-size: 63px;
+    margin-bottom: 25px;
+    letter-spacing: 0.48px;
+    color: #2F2F2F;
+}
+.btn5{
+    background: rgba(168, 193, 216, 0.2);
+    width: 38px;
+    height: 38px;
+    border: none;
+    margin-right: 8px;
+}
+.card-body{
+    display: flex;
+}
+.card-texti{
+    font-weight: 400;
+    font-size: 16px;
+    letter-spacing: 0.48px;
+    color: #2F2F2F;
+    margin-right: 8px;
+}
+.raqam{
+    font-weight: 700;
+    font-size: 17px;
+    letter-spacing: 0.48px;
+    color: #2F2F2F;
+    margin-right: 49px;
+}
+.cards{
+    width: 332px;
+    height: 210px;
+    margin-bottom: 92px;
+}
+.btn6{
+    background: #FF7F96;
+    border-radius: 30px;
+    width: 38px;
+    height: 38px;
+    border: none;
+}
+.faq{
+    margin-bottom: 70px;
+    font-weight: 400;
+    font-size: 64px;
+    text-align: center;
+    letter-spacing: 0.48px;
+    color: #2F2F2F;
 
-    
-
+}
+.accordion-item{
+    border: none;
+    margin-left: 50px;
+    margin-bottom: 10px;
+    font-weight: 600;
+}
+p{
+    font-weight: 400;
+font-size: 22px;
+line-height: 24px;
+letter-spacing: 0.48px;
+color: #2F2F2F;
+}
    
