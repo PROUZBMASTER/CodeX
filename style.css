@@ -386,4 +386,86 @@ line-height: 24px;
 letter-spacing: 0.48px;
 color: #2F2F2F;
 }
+.big-logo{
+    margin-bottom: 45px;
+}
+
+footer{
+    margin-top: 220px;
+     margin-bottom: 100px;
+}
+.join{
+    font-weight: 400;
+    font-size: 22px;
+    letter-spacing: 0.48px;
+    color: #2F2F2F;
+    margin-bottom: 15px;
+}
+.site{
+    margin-left: 30px;
+    margin-bottom: 17px;
+    font-weight: 400;
+    font-size: 20px;
+    letter-spacing: 0.48px;
+    color: #2F2F2F;
+}
+.a{
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 16px;
+    letter-spacing: 0.48px;
+    color: #2F2F2F;
+    margin-bottom: 18px;
+}
+.input{
+    width: 327px;
+    height: 40px;
+    background: #F6F6F6;
+    border-radius: 20px;
+    border: none;
+    font-weight: 400;
+    font-size: 14px;
+    letter-spacing: 0.48px;
+    color: rgba(47, 47, 47, 0.36);
+    text-align: start;
+    padding-left: 32px;   
+}
+.btn10{
+    background: #2F2F2F;
+    border-radius: 20px;
+    width: 79px;
+    height: 40px;
+    border: none;
+    margin-left: 8px;
+}
+.sign{
+    padding-top: 5px;
+    font-weight: 700;
+    font-size: 14px;
+    letter-spacing: 0.48px;
+    color: #FFFFFF;
+}
+.stay{
+    font-weight: 400;
+    font-size: 37px;
+    margin-bottom: 16px;
+    line-height: 29px;
+    letter-spacing: 0.48px;
+    color: #2F2F2F;
+}
+.various{
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 26px;
+    letter-spacing: 0.48px;
+    color: #2F2F2F;
+    margin-bottom: 16px;
+}
+.hayr{
+    margin-left: 50px;
+}
+.katta{
+    margin-right: 200px;
+}
    
